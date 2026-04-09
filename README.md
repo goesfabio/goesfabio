@@ -1,4 +1,4 @@
-## Hi there 👋 👋 👋  👋 Seja muito bem vindo!
+## Olá 👋 Seja bem vindo!
 
 <!--
 **goesfabio/goesfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
